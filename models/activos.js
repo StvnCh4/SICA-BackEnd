@@ -17,7 +17,7 @@ const activoSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  ubicacion: {
+  unidad: {
     type: String,
     required: true,
   },
